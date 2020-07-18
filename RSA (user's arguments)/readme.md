@@ -4,12 +4,17 @@ https://simple.wikipedia.org/wiki/RSA_algorithm
 It's version. which let user to choose arguments and check if they are correct with RSA algorithm. 
 
 Program can be runned in three modes:
+
 a) encryption - coding your sequence,
+
 b) decryption - decoding coded sequence,
+
 c) test - checking correctness of coding.
+
 
 Arguments, that are needed to run program, are depended on program's mode.
 Each mode of program needs:
+
 1. argument - mode 
 
 2,3,4. arguments - p,q,e - they are create public key
