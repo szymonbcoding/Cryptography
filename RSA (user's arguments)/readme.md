@@ -11,6 +11,7 @@ c) test - checking correctness of coding.
 Arguments, that are needed to run program, are depended on program's mode.
 Each mode of program needs:
 1. argument - mode 
+
 2,3,4. arguments - p,q,e - they are create public key
 
 Later, each mode of program needs different data for next arguments.
