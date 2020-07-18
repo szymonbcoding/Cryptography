@@ -26,6 +26,7 @@ a) encryption
 5. argument - sequence (in quotes)
 
 Example command:
+
 python rsa.py encryption 29 19 5 "szymon"
 
 b) decryption 
@@ -33,11 +34,13 @@ b) decryption
 Coded sequence is represented as series of numbers, so you can put as many arguments as you need.
 
 For exmaple, if your sequence has 6 characters, so your last arguments will be 10.
+
 python rsa.py decryption 29 19 5 189 252 123 331 48 470
 
 c) test 
 
 Just like for encryption, exmaple command:
+
 python rsa.py encryption 29 19 5 "szymon"
 
 Remember about fact that your arguments p,q,e (public key) have to prime numbers
